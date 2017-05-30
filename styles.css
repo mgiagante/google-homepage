@@ -39,9 +39,25 @@ button {
 
 #search-box {
   display: block;
-  width: 503px;
-  height: 34px;
+  width: 584px;
+  height: 44px;
   margin: 34px auto;
   box-shadow: 1px 2px 2px #d2d2d2;
   border: 1px solid #d2d2d2;
+}
+
+#search-box-input {
+  margin: 8px 5px;
+  width: 85%;
+  height: 25px;
+  float: left;
+  border: none;
+  outline: none;
+}
+
+#voice-search {
+  float: right;
+  margin: 11px 20px;
+  width: 14px;
+  display: inline;
 }
