@@ -70,6 +70,12 @@ button {
 nav ul, footer ul {
   list-style-type: none;
   float: right;
+  padding: 5px 26px;
+}
+
+nav ul li {
+  padding: 7px 6px;
+  color: rgba(64, 64, 64, 0.9);
 }
 
 nav li, footer li {
@@ -77,6 +83,8 @@ nav li, footer li {
 }
 
 nav li img {
+  position: relative;
+  top: 3px;
   width: 15px;
 }
 
@@ -88,6 +96,7 @@ nav li img {
   border-radius: 6%;
   padding-left: 8px;
   padding-right: 8px;
+  padding-bottom: 2px;
 }
 
 footer {
