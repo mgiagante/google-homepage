@@ -83,8 +83,11 @@ nav li img {
 #sign-in button {
   background-color: rgb(66, 133, 244);
   color: white;
-  width: 80px;
+  width: 69.34px;
   height: 30px;
+  border-radius: 6%;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 footer {
